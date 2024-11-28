@@ -1,4 +1,4 @@
-//链表排序
+//閾捐〃鎺掑簭
 #define _CRT_SECURE_NO_WARINGS
 #include<stdio.h>
 #include<stdlib.h>
@@ -15,8 +15,8 @@ typedef struct Node
 
 {
 
-	int data;//存放数据
+	int data;//瀛樻斁鏁版嵁 
 
-	struct Node* pNext;//指向下一个结构体对象
+	struct Node* pNext;//鎸囧悜涓嬩竴涓粨鏋勪綋瀵硅薄
 
 }NODE, * pNODE;
